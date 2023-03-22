@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height : 60px;
+    background-color: darkviolet;
+    color:azure;
+    border : 4px solid yellowgreen;
+   
+}
+
+.content{
+    background-color: rgb(185, 23, 64);
+    color: azure;
+    margin : 30px;
+    padding: 30px;
+    height : 400px;
+
+}
+
+footer{
+    background-color: darkkhaki;
+    margin: 25px;
+}
+
+p{
+    text-align: center;
+}
