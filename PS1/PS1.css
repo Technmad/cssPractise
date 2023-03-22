@@ -2,3 +2,8 @@
     background: red;
     color: white;
 }
+
+#head {
+    background: cyan;
+    font: yellow;
+}
