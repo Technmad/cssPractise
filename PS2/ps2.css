@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav{
+
+    background: #d70dbc;
+    color: azure;
+}
+
+.container{
+    background: rgb(249, 5, 5);
+    color: azure;
+}
+
+.bg{
+    background-image: url("HTML_IMAGE.png");
+    background-size: 300px;
+}
+
+.bg1{
+    width: 344px;
+    height: 3344px;
+    background: aqua url("w-qjCHPZbeXCQ-unsplash.jpg") no-repeat fixed ;
+    background-size: 341px 341px;
+
+}
