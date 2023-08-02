@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar .container {
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: blue;
+  color: white;
+}
+
+.navbar .container ul {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar a:hover {
+  color: aqua;
+}
+
+.header .container {
+  min-height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card .container {
+  display: flex;
+  gap: 25px;
+  margin: 0px 200px;
+  height: 280px;
+  padding: 20px;
+  align-items: baseline;
+}
+
+.boxes {
+  padding: 10px;
+  flex: 1;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 10px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
