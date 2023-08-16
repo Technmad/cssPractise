@@ -5,3 +5,10 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background: #edf2f8;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  line-height: 1.7;
+  font-size: 13px;
+}
